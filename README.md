@@ -55,4 +55,4 @@ A collection of awesome things in the [Microsoft Orleans](https://github.com/dot
 ##### Projects built on Orleans
 
 * [SignalR.Orleans](https://github.com/OrleansContrib/SignalR.Orleans) - SignalR backend based on Orleans.
-
+* [Squidex](https://github.com/Squidex/squidex) - Headless CMS and Content Managment Hub built on Orleans.
