@@ -2,6 +2,15 @@
 
 A collection of awesome things in the [Microsoft Orleans](https://github.com/dotnet/orleans) ecosystem.
 
+##### Documentation
+
+* [Orleans Docs](https://dotnet.github.io/orleans/) - Official documentation.
+
+##### Community
+
+* [Discord](https://aka.ms/orleans-discord) - Orleans discord server.
+* [@msftorleans](https://twitter.com/msftorleans) - Orleans twitter account.
+
 ##### Example Projects
 
 * [Orleans Heroes](https://github.com/sketch7/orleans-heroes) - sample app.
