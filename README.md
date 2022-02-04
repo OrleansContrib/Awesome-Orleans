@@ -29,6 +29,8 @@ A collection of awesome things in the [Microsoft Orleans](https://github.com/dot
 * [Orleans.Providers.MongoDB](https://github.com/OrleansContrib/Orleans.Providers.MongoDB) - A MongoDb providers for Membership, Storage and Reminders.
 * [Orleans.Clustering.Kubernetes](https://github.com/OrleansContrib/Orleans.Clustering.Kubernetes) - Orleans Membership provider for Kubernetes
 * [Orleans.Providers.RabbitMQ](https://github.com/OrleansContrib/Orleans.Providers.RabbitMQ) - Orleans providers for RabbitMQ.
+* [Orleans.TelemetryConsumers.Datadog](https://github.com/OrleansContrib/Orleans.TelemetryConsumers.Datadog) - Orleans integration package for Datadog.
+* [Orleans.Providers.EntityFramework](https://github.com/OrleansContrib/Orleans.Providers.EntityFramework) - An Entity Framework Core implementation of Orleans Grain Storage.
 
 ##### Monitoring
 
@@ -41,6 +43,10 @@ A collection of awesome things in the [Microsoft Orleans](https://github.com/dot
 ##### Extensions
 
 * [Orleans.SyncWork](https://github.com/OrleansContrib/Orleans.SyncWork) - write long running CPU bound synchronous work, without becoming overloaded.
+* [Orleans.Http](https://github.com/OrleansContrib/Orleans.Http) - An HTTP API for Microsoft Orleans.
+* [Orleans.Sagas](https://github.com/OrleansContrib/Orleans.Sagas) - A distributed saga implementation for Orleans.
+* [Orleankka](https://github.com/OrleansContrib/Orleankka) - Functional API for Microsoft Orleans
+* [Orleans.Indexing](https://github.com/OrleansContrib/Orleans.Indexing) - Indexing extension for Orleans.
 
 ##### Projects built on Orleans
 
