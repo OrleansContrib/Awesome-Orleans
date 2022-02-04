@@ -9,8 +9,10 @@ A collection of awesome things in the [Microsoft Orleans](https://github.com/dot
 ##### Community
 
 * [Discord](https://aka.ms/orleans-discord) - Orleans discord server.
+* [Gitter](https://gitter.im/dotnet/orleans) - Orleans Gitter channel
 * [@msftorleans](https://twitter.com/msftorleans) - Orleans twitter account.
 * [OrleansContrib](https://github.com/OrleansContrib/) - Orleans Contrib organisation on GitHub.
+* [Orleans Meetups](https://github.com/OrleansContrib/meetups) - A repository to organise virtual meetups to discuss Orleans and other distributed systems programming on .NET
 
 ##### Example Projects
 
