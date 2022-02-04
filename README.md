@@ -19,6 +19,7 @@ A collection of awesome things in the [Microsoft Orleans](https://github.com/dot
 * [Orleans Heroes](https://github.com/sketch7/orleans-heroes) - sample app.
 * [Orleans.Tournament](https://github.com/pmorelli92/Orleans.Tournament) - Orleans sample with clustering, implicit stream handling, authentication, authorization, websockets.
 * [Orleans.Security](https://github.com/Async-Hub/Orleans.Security) - Authorization library for Microsoft Orleans
+* [HanBaoBao](https://github.com/ReubenBond/hanbaobao-web) - A Mandarin/English bilingual dictionary built with a VueJS Web frontend, demonstrating Kubernetes deployment on AKS
 
 ##### Learning
 
