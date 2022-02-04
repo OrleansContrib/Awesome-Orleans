@@ -10,6 +10,7 @@ A collection of awesome things in the [Microsoft Orleans](https://github.com/dot
 
 * [Discord](https://aka.ms/orleans-discord) - Orleans discord server.
 * [@msftorleans](https://twitter.com/msftorleans) - Orleans twitter account.
+* [OrleansContrib](https://github.com/OrleansContrib/) - Orleans Contrib organisation on GitHub.
 
 ##### Example Projects
 
@@ -20,3 +21,28 @@ A collection of awesome things in the [Microsoft Orleans](https://github.com/dot
 ##### Learning
 
 * [Road to Orleans](https://github.com/PiotrJustyna/road-to-orleans) - Practical, real-life examples from basic to more advanced techniques.
+
+##### Providers
+
+* [Orleans.Redis](https://github.com/OrleansContrib/Orleans.Redis) - Persistence and Clustering providers for Orleans
+* [Orleans.CosmosDB](https://github.com/OrleansContrib/Orleans.CosmosDB) - Orleans providers for Azure Cosmos DB
+* [Orleans.Providers.MongoDB](https://github.com/OrleansContrib/Orleans.Providers.MongoDB) - A MongoDb providers for Membership, Storage and Reminders.
+* [Orleans.Clustering.Kubernetes](https://github.com/OrleansContrib/Orleans.Clustering.Kubernetes) - Orleans Membership provider for Kubernetes
+* [Orleans.Providers.RabbitMQ](https://github.com/OrleansContrib/Orleans.Providers.RabbitMQ) - Orleans providers for RabbitMQ.
+
+##### Monitoring
+
+* [OrleansDashboard](https://github.com/OrleansContrib/OrleansDashboard) - A monitoring dashboard for Microsoft Orleans
+
+##### Testing
+
+* [OrleansTestKit](https://github.com/OrleansContrib/OrleansTestKit) - Unit Test Toolkit for Microsoft Orleans
+
+##### Extensions
+
+* [Orleans.SyncWork](https://github.com/OrleansContrib/Orleans.SyncWork) - write long running CPU bound synchronous work, without becoming overloaded.
+
+##### Projects built on Orleans
+
+* [SignalR.Orleans](https://github.com/OrleansContrib/SignalR.Orleans) - SignalR backend based on Orleans.
+
