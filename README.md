@@ -56,3 +56,8 @@ A collection of awesome things in the [Microsoft Orleans](https://github.com/dot
 
 * [SignalR.Orleans](https://github.com/OrleansContrib/SignalR.Orleans) - SignalR backend based on Orleans.
 * [Squidex](https://github.com/Squidex/squidex) - Headless CMS and Content Managment Hub built on Orleans.
+
+##### Publications
+
+* [Orleans Reseach Paper](https://www.microsoft.com/en-us/research/publication/orleans-distributed-virtual-actors-for-programmability-and-scalability/) - Orleans: Distributed Virtual Actors for Programmability and Scalability
+* [Transactions Technical Report](https://www.microsoft.com/en-us/research/publication/transactions-distributed-actors-cloud-2/) - Transactions for Distributed Actors in the Cloud
