@@ -20,6 +20,7 @@ A collection of awesome things in the [Microsoft Orleans](https://github.com/dot
 * [Orleans.Tournament](https://github.com/pmorelli92/Orleans.Tournament) - Orleans sample with clustering, implicit stream handling, authentication, authorization, websockets.
 * [Orleans.Security](https://github.com/Async-Hub/Orleans.Security) - Authorization library for Microsoft Orleans
 * [HanBaoBao](https://github.com/ReubenBond/hanbaobao-web) - A Mandarin/English bilingual dictionary built with a VueJS Web frontend, demonstrating Kubernetes deployment on AKS
+* [Orleans Silo + Client on Azure Container Apps](https://github.com/bradygaster/OrleansOnAzureContainerApps) - This repository contains a simple solution with an Orleans Silo and an Orleans Client project.
 
 ##### Learning
 
