@@ -22,6 +22,7 @@ A collection of awesome things in the [Microsoft Orleans](https://github.com/dot
 * [HanBaoBao](https://github.com/ReubenBond/hanbaobao-web) - A Mandarin/English bilingual dictionary built with a VueJS Web frontend, demonstrating Kubernetes deployment on AKS
 * [Orleans Silo + Client on Azure App Service](https://github.com/bradygaster/OrleansOnAzureAppService) - This repository contains a simple solution with an Orleans Silo and an Orleans Client project.
 * [Orleans Silo + Client on Azure Container Apps](https://github.com/bradygaster/OrleansOnAzureContainerApps) - This repository contains a simple solution with an Orleans Silo and an Orleans Client project.
+* [Dotnet-Boxed Orleans Template](https://github.com/Dotnet-Boxed/Templates/blob/main/Docs/Orleans.md) - Orleans project template with batteries included, providing the minimum amount of code required to get you going.
 
 ##### Learning
 
@@ -38,6 +39,7 @@ A collection of awesome things in the [Microsoft Orleans](https://github.com/dot
 * [Orleans.Providers.RabbitMQ](https://github.com/OrleansContrib/Orleans.Providers.RabbitMQ) - Orleans providers for RabbitMQ.
 * [Orleans.TelemetryConsumers.Datadog](https://github.com/OrleansContrib/Orleans.TelemetryConsumers.Datadog) - Orleans integration package for Datadog.
 * [Orleans.Providers.EntityFramework](https://github.com/OrleansContrib/Orleans.Providers.EntityFramework) - An Entity Framework Core implementation of Orleans Grain Storage.
+* [Orleans.Streams.Kafka](https://github.com/jonathansant/Orleans.Streams.Kafka) - An implementation of a PersistentStreamProvider for Microsoft Orleans and Kafka using the Confluent API. 
 
 ##### Monitoring
 
