@@ -4,7 +4,7 @@ A collection of awesome things in the [Microsoft Orleans](https://github.com/dot
 
 ##### Documentation
 
-* [Orleans Docs](https://dotnet.github.io/orleans/) - Official documentation.
+* [Orleans Docs](https://docs.microsoft.com/dotnet/orleans/) - Official documentation.
 
 ##### Community
 
