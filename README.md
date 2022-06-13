@@ -67,3 +67,9 @@ A collection of awesome things in the [Microsoft Orleans](https://github.com/dot
 
 * [Orleans Reseach Paper](https://www.microsoft.com/en-us/research/publication/orleans-distributed-virtual-actors-for-programmability-and-scalability/) - Orleans: Distributed Virtual Actors for Programmability and Scalability
 * [Transactions Technical Report](https://www.microsoft.com/en-us/research/publication/transactions-distributed-actors-cloud-2/) - Transactions for Distributed Actors in the Cloud
+
+##### Books
+
+* [Introducing Microsoft Orleans: Implementing Cloud-Native Services with a Virtual Actor Framework](https://www.amazon.com/Introducing-Microsoft-Orleans-Implementing-Cloud-Native/dp/148428013X) - by Thomas Nelson.
+* [Microsoft Orleans for Developers: Build Cloud-Native, High-Scale, Distributed Systems in .NET Using Orleans](https://www.amazon.com/Microsoft-Orleans-Developers-Cloud-Native-Distributed/dp/1484281667) - by Richard Astbury.
+* [Distributed .NET with Microsoft Orleans: Build robust and highly scalable distributed applications without worrying about complex programming patterns](https://www.amazon.com/Distributed-NET-Microsoft-Orleans-applications-ebook/dp/B09NPBDQSL) - by Suneel Kumar Kunani and Bhupesh Guptha.
