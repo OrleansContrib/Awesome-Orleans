@@ -26,6 +26,7 @@ A collection of awesome things in the [Microsoft Orleans](https://github.com/dot
 
 ##### Learning
 
+* [Modules on Microsoft Learn](https://docs.microsoft.com/en-us/learn/browse/?expanded=dotnet&products=dotnet-orleans) - Orleans learning modules on Microsoft Learn.
 * [Road to Orleans](https://github.com/PiotrJustyna/road-to-orleans) - Practical, real-life examples from basic to more advanced techniques.
 * [Pluralsight Course](https://www.pluralsight.com/courses/microsoft-orleans-introduction) - Introduction to Microsoft Orleans Pluralsight Course.
 * [Udemy Course](https://www.udemy.com/course/complete-orleans-net-from-zero-to-hero/) - Complete Microsoft Orleans .NET: From Zero to Hero
