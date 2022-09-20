@@ -56,6 +56,7 @@ A collection of awesome things in the [Microsoft Orleans](https://github.com/dot
 * [Orleans.Sagas](https://github.com/OrleansContrib/Orleans.Sagas) - A distributed saga implementation for Orleans.
 * [Orleankka](https://github.com/OrleansContrib/Orleankka) - Functional API for Microsoft Orleans
 * [Orleans.Indexing](https://github.com/OrleansContrib/Orleans.Indexing) - Indexing extension for Orleans.
+* [Orleans.StorageProviderInterceptors](https://github.com/ElanHasson/Orleans.StorageProviderInterceptors) - Intercept grain storage provider calls for transparent encryption model state validation, or whatever you can dream up!
 
 ##### Projects built on Orleans
 
