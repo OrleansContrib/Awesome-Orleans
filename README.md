@@ -61,7 +61,6 @@ A collection of awesome things in the [Microsoft Orleans](https://github.com/dot
 ##### Projects built on Orleans
 
 * [SignalR.Orleans](https://github.com/OrleansContrib/SignalR.Orleans) - SignalR backend based on Orleans.
-* [Squidex](https://github.com/Squidex/squidex) - Headless CMS and Content Managment Hub built on Orleans.
 * [Trool.io](https://trool.io/) - A tech stack for Domain Driven Design with CQRS and Event Sourcing.
 * [Web Scheduler](https://github.com/web-scheduler/) - A general scheduler supporting a variety of triggers.
 
