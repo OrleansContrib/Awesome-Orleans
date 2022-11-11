@@ -80,3 +80,4 @@ A collection of awesome things in the [Microsoft Orleans](https://github.com/dot
 
 * [.NET Conf 2022](https://www.youtube.com/watch?v=WUZw78P-Zg8) - How Halo, Dynamics 365, and Mesh scale to millions with Orleans and you can too!
 * [J on the Beach 2022](https://www.youtube.com/watch?v=f8qlaO7ZACI) - Beyond FaaS: Stateful, Scalable, & Scrutable Cloud Apps with Orleans by Reuben Bond
+* [Microsoft LunchBytes](https://www.youtube.com/watch?v=lFKEp4FrnV8) - Build Cloud Native High-Scale Apps with Microsoft Orleans
