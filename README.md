@@ -58,6 +58,10 @@ A collection of awesome things in the [Microsoft Orleans](https://github.com/dot
 * [Orleans.Indexing](https://github.com/OrleansContrib/Orleans.Indexing) - Indexing extension for Orleans.
 * [Orleans.StorageProviderInterceptors](https://github.com/ElanHasson/Orleans.StorageProviderInterceptors) - Intercept grain storage provider calls for transparent encryption model state validation, or whatever you can dream up!
 
+##### Templates
+
+* [Orleans.Multiservice](https://github.com/Applicita/Orleans.Multiservice) - automated code structuring pattern for logical service separation within a Microsoft Orleans (micro)service.
+
 ##### Projects built on Orleans
 
 * [SignalR.Orleans](https://github.com/OrleansContrib/SignalR.Orleans) - SignalR backend based on Orleans.
