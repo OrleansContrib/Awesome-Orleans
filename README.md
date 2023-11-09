@@ -40,6 +40,7 @@ A collection of awesome things in the [Microsoft Orleans](https://github.com/dot
 * [Orleans.TelemetryConsumers.Datadog](https://github.com/OrleansContrib/Orleans.TelemetryConsumers.Datadog) - Orleans integration package for Datadog.
 * [Orleans.Providers.EntityFramework](https://github.com/OrleansContrib/Orleans.Providers.EntityFramework) - An Entity Framework Core implementation of Orleans Grain Storage.
 * [Orleans.Streams.Kafka](https://github.com/jonathansant/Orleans.Streams.Kafka) - An implementation of a PersistentStreamProvider for Microsoft Orleans and Kafka using the Confluent API. 
+* [Orleans.Streaming.Grains](https://github.com/Surveily/Orleans.Streaming.Grains) - Fast streaming provider that enables queue persistance via all Grain Storage providers. This enables Persistent Streams on premises.
 
 ##### Monitoring
 
