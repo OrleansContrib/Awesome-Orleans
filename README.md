@@ -69,6 +69,7 @@ A collection of awesome things in the [Microsoft Orleans](https://github.com/dot
 * [Trool.io](https://trool.io/) - A tech stack for Domain Driven Design with CQRS and Event Sourcing.
 * [Web Scheduler](https://github.com/web-scheduler/) - A general scheduler supporting a variety of triggers.
 * [Message Silo](https://www.message-silo.dev) - A platform to auto-correct your dead-lettered messages and make integration simpler for event-driven systems. Azure Service Bus, AWS SQS, RabbitMQ, and more...
+* [OrleanSpaces](https://github.com/ledjon-behluli/OrleanSpaces) - A virtual, fully-asynchronous, Tuple Space implementation backed by Orleans.
 
 ##### Publications
 
