@@ -71,6 +71,7 @@ A collection of awesome things in the [Microsoft Orleans](https://github.com/dot
 * [Message Silo](https://www.message-silo.dev) - A platform to auto-correct your dead-lettered messages and make integration simpler for event-driven systems. Azure Service Bus, AWS SQS, RabbitMQ, and more...
 * [OrleanSpaces](https://github.com/ledjon-behluli/OrleanSpaces) - A virtual, fully-asynchronous, Tuple Space implementation backed by Orleans.
 * [Orleans.SignalR](https://github.com/managedcode/Orleans.SignalR) - SignalR for Orleans, base on Streams, with all functions, including calling client methods and getting results.
+* [Cratis Chronicle](https://github.com/Cratis/Chronicle) - Open-source (MIT) event sourcing database and runtime with an Orleans-based kernel, pluggable storage (MongoDB, PostgreSQL, SQL Server, SQLite) and clients for .NET, TypeScript, Kotlin/Java and Elixir.
 
 ##### Publications
 
